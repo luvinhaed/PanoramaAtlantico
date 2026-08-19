@@ -1,0 +1,19 @@
+{
+  "title": "PAINEL OPERACIONAL - ATLÂNTICO",
+  "main_api_url": "https://operview-ce-sapi.enel.com/datalake/incidencias-ativas",
+  "legacy_api_url": "http://wstecnicaindicadoresce.enelint.global/WsPenNPen.svc/ConsultarProjetoTempoReal",
+  "refresh_seconds": 180,
+  "territory_sucursais": [
+    "C.S. ACARAÚ",
+    "CS ACARAÚ",
+    "ACARAÚ",
+    "ITAPIPOCA",
+    "ITAPAJÉ",
+    "ITAPAGE"
+  ],
+  "git_auto_commit": false,
+  "git_branch": "main",
+  "git_remote": "origin",
+  "git_commit_prefix": "auto: update dashboard data",
+  "github_pages_base_path": ""
+}

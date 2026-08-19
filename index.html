@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Painel Operacional - Atlântico</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="page-shell">
+    <header class="header-card card">
+      <div class="header-left">
+        <div class="eyebrow">Operação Atlântico</div>
+        <h1 id="page-title">PAINEL OPERACIONAL - ATLÂNTICO</h1>
+      </div>
+      <div class="header-right">
+        <div class="header-label">Última atualização dos dados</div>
+        <div class="header-value" id="updated-at">—</div>
+      </div>
+    </header>
+
+    <main class="dashboard-grid">
+      <section class="card summary-card">
+        <div class="section-head">
+          <div class="section-title">Resumo Operacional</div>
+        </div>
+        <div id="summary-grid" class="summary-grid"></div>
+      </section>
+
+      <section class="card map-card">
+        <div class="section-head">
+          <div class="section-title">Mapa Operacional</div>
+        </div>
+        <div id="map-container" class="map-container"></div>
+      </section>
+
+      <section class="analysis-grid">
+        <section class="card panel-card duration-panel">
+          <div class="section-head">
+            <div class="section-title">Top 10 por Duração</div>
+          </div>
+          <div class="table-wrap">
+            <table class="rank-table">
+              <thead id="thead-duration"></thead>
+              <tbody id="tbody-duration"></tbody>
+            </table>
+          </div>
+        </section>
+
+        <div class="right-stack">
+          <section class="card panel-card small-panel">
+            <div class="section-head">
+              <div class="section-title">Top 5 por CHI</div>
+            </div>
+            <div class="table-wrap">
+              <table class="rank-table">
+                <thead id="thead-chi"></thead>
+                <tbody id="tbody-chi"></tbody>
+              </table>
+            </div>
+          </section>
+
+          <section class="card panel-card small-panel">
+            <div class="section-head">
+              <div class="section-title">Top 5 por CLI</div>
+            </div>
+            <div class="table-wrap">
+              <table class="rank-table">
+                <thead id="thead-cli"></thead>
+                <tbody id="tbody-cli"></tbody>
+              </table>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <section class="card teams-card">
+        <div class="section-head">
+          <div class="section-title">Incidências por Equipe Ativa</div>
+        </div>
+        <div class="chart-shell">
+          <div class="chart-scroll">
+            <svg id="teams-chart" preserveAspectRatio="xMinYMin meet"></svg>
+          </div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="data/dashboard_data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
