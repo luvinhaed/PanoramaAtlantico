@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - ATLANTICO",
-    "updated_at_iso": "2026-08-31T04:27:01",
-    "updated_at_display": "31/08/2026 04:27:01",
-    "data_updated_at_iso": "2026-08-31T04:27:01",
-    "data_updated_at_display": "31/08/2026 04:27:01",
+    "updated_at_iso": "2026-08-31T04:43:52",
+    "updated_at_display": "31/08/2026 04:43:52",
+    "data_updated_at_iso": "2026-08-31T04:43:52",
+    "data_updated_at_display": "31/08/2026 04:43:52",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -7967,10 +7967,10 @@
       {
         "numero": "0041895917",
         "numero_display": "41895917",
-        "duracao": "14:04",
-        "duracao_horas": 14.066666666666666,
+        "duracao": "14:21",
+        "duracao_horas": 14.35,
         "clientes_afetados": 1,
-        "conh": 14.0304,
+        "conh": 14.3299,
         "municipio": "Tejuçuoca",
         "municipio_norm": "TEJUCUOCA",
         "regional": "ITAPAJÉ",
@@ -7994,10 +7994,10 @@
       {
         "numero": "0041895917",
         "numero_display": "41895917",
-        "duracao": "14:04",
-        "duracao_horas": 14.066666666666666,
+        "duracao": "14:21",
+        "duracao_horas": 14.35,
         "clientes_afetados": 1,
-        "conh": 14.0304,
+        "conh": 14.3299,
         "municipio": "Tejuçuoca",
         "municipio_norm": "TEJUCUOCA",
         "regional": "ITAPAJÉ",
@@ -8021,10 +8021,10 @@
       {
         "numero": "0041895917",
         "numero_display": "41895917",
-        "duracao": "14:04",
-        "duracao_horas": 14.066666666666666,
+        "duracao": "14:21",
+        "duracao_horas": 14.35,
         "clientes_afetados": 1,
-        "conh": 14.0304,
+        "conh": 14.3299,
         "municipio": "Tejuçuoca",
         "municipio_norm": "TEJUCUOCA",
         "regional": "ITAPAJÉ",
@@ -8053,7 +8053,7 @@
         "municipio": "Tejuçuoca",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 14.03
+        "chi": 14.33
       }
     ],
     "totals": {
@@ -8065,10 +8065,10 @@
     {
       "numero": "0041895917",
       "numero_display": "41895917",
-      "duracao": "14:04",
-      "duracao_horas": 14.066666666666666,
+      "duracao": "14:21",
+      "duracao_horas": 14.35,
       "clientes_afetados": 1,
-      "conh": 14.0304,
+      "conh": 14.3299,
       "municipio": "Tejuçuoca",
       "municipio_norm": "TEJUCUOCA",
       "regional": "ITAPAJÉ",
@@ -8090,7 +8090,7 @@
   ],
   "metadata": {
     "raw_total": 117,
-    "legacy_total": 114,
+    "legacy_total": 116,
     "territory_total": 1,
     "dropped_finalizado": 0,
     "dropped_unmapped": 116,
