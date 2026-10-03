@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - ATLANTICO",
-    "updated_at_iso": "2026-10-03T09:29:25",
-    "updated_at_display": "03/10/2026 09:29:25",
-    "data_updated_at_iso": "2026-10-03T09:29:25",
-    "data_updated_at_display": "03/10/2026 09:29:25",
+    "updated_at_iso": "2026-10-03T09:46:16",
+    "updated_at_display": "03/10/2026 09:46:16",
+    "data_updated_at_iso": "2026-10-03T09:46:16",
+    "data_updated_at_display": "03/10/2026 09:46:16",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -14,11 +14,11 @@
         "regional": "ACARAÚ",
         "clientes_afetados": 47,
         "incidencias_ativas": 12,
-        "nao_despachadas": 1,
+        "nao_despachadas": 0,
         "qtde_equipes": 9,
         "qtde_equipes_recomendadas": 3,
         "aporte_recomendado": 0,
-        "mais_de_um_aviso": 3,
+        "mais_de_um_aviso": 4,
         "dur_lt_8": 5,
         "dur_8_16": 5,
         "dur_16_24": 2,
@@ -42,22 +42,7 @@
       },
       {
         "regional": "ITAPAJÉ",
-        "clientes_afetados": 1,
-        "incidencias_ativas": 3,
-        "nao_despachadas": 0,
-        "qtde_equipes": 3,
-        "qtde_equipes_recomendadas": 1,
-        "aporte_recomendado": 0,
-        "mais_de_um_aviso": 0,
-        "dur_lt_8": 3,
-        "dur_8_16": 0,
-        "dur_16_24": 0,
-        "dur_gt_24": 0,
-        "dur_gt_48": 0
-      },
-      {
-        "regional": "TRAIRÍ",
-        "clientes_afetados": 6,
+        "clientes_afetados": 2,
         "incidencias_ativas": 4,
         "nao_despachadas": 0,
         "qtde_equipes": 4,
@@ -71,14 +56,29 @@
         "dur_gt_48": 0
       },
       {
+        "regional": "TRAIRÍ",
+        "clientes_afetados": 5,
+        "incidencias_ativas": 3,
+        "nao_despachadas": 0,
+        "qtde_equipes": 3,
+        "qtde_equipes_recomendadas": 1,
+        "aporte_recomendado": 0,
+        "mais_de_um_aviso": 0,
+        "dur_lt_8": 3,
+        "dur_8_16": 0,
+        "dur_16_24": 0,
+        "dur_gt_24": 0,
+        "dur_gt_48": 0
+      },
+      {
         "regional": "ATLÂNTICO",
         "clientes_afetados": 65,
         "incidencias_ativas": 28,
-        "nao_despachadas": 2,
+        "nao_despachadas": 1,
         "qtde_equipes": 22,
         "qtde_equipes_recomendadas": 7,
         "aporte_recomendado": 0,
-        "mais_de_um_aviso": 4,
+        "mais_de_um_aviso": 5,
         "dur_lt_8": 20,
         "dur_8_16": 6,
         "dur_16_24": 2,
@@ -7851,9 +7851,9 @@
       {
         "municipio": "Irauçuba",
         "regional": "ITAPAJÉ",
-        "incidencias": 0,
-        "equipes": 0,
-        "tem_equipe_ativa": false
+        "incidencias": 1,
+        "equipes": 1,
+        "tem_equipe_ativa": true
       },
       {
         "municipio": "Itapagé",
@@ -7873,7 +7873,7 @@
         "municipio": "Itarema",
         "regional": "ACARAÚ",
         "incidencias": 2,
-        "equipes": 1,
+        "equipes": 2,
         "tem_equipe_ativa": true
       },
       {
@@ -7900,9 +7900,9 @@
       {
         "municipio": "Paracuru",
         "regional": "TRAIRI",
-        "incidencias": 1,
-        "equipes": 1,
-        "tem_equipe_ativa": true
+        "incidencias": 0,
+        "equipes": 0,
+        "tem_equipe_ativa": false
       },
       {
         "municipio": "Paraipaba",
@@ -7967,10 +7967,10 @@
       {
         "numero": "0042140365",
         "numero_display": "42140365",
-        "duracao": "18:52",
-        "duracao_horas": 18.866666666666667,
+        "duracao": "19:09",
+        "duracao_horas": 19.15,
         "clientes_afetados": 36,
-        "conh": 678.0247,
+        "conh": 688.8775,
         "municipio": "Acaraú",
         "municipio_norm": "ACARAU",
         "regional": "ACARAÚ",
@@ -7980,7 +7980,7 @@
         "polo": "ATLANTICO",
         "polo_classificacao_origem": "alimentador",
         "pendencia": "Não",
-        "status_execucao": "Deslocamento",
+        "status_execucao": "Em Execução",
         "lat": -3.19350052,
         "lon": -39.9957257,
         "coord_source": "Coordenada_Cliente",
@@ -7992,10 +7992,10 @@
       {
         "numero": "0042141017",
         "numero_display": "42141017",
-        "duracao": "18:00",
-        "duracao_horas": 18.0,
+        "duracao": "18:17",
+        "duracao_horas": 18.283333333333335,
         "clientes_afetados": 2,
-        "conh": 35.9364,
+        "conh": 36.5393,
         "municipio": "C.S. ACARAÚ",
         "municipio_norm": "C.S. ACARAU",
         "regional": "ACARAÚ",
@@ -8017,10 +8017,10 @@
       {
         "numero": "0042142463",
         "numero_display": "42142463",
-        "duracao": "15:26",
-        "duracao_horas": 15.433333333333334,
+        "duracao": "15:43",
+        "duracao_horas": 15.716666666666667,
         "clientes_afetados": 1,
-        "conh": 15.4013,
+        "conh": 15.7028,
         "municipio": "Acaraú",
         "municipio_norm": "ACARAU",
         "regional": "ACARAÚ",
@@ -8042,10 +8042,10 @@
       {
         "numero": "0042142679",
         "numero_display": "42142679",
-        "duracao": "15:02",
-        "duracao_horas": 15.033333333333333,
+        "duracao": "15:19",
+        "duracao_horas": 15.316666666666666,
         "clientes_afetados": 1,
-        "conh": 15.003,
+        "conh": 15.3044,
         "municipio": "Acaraú",
         "municipio_norm": "ACARAU",
         "regional": "ACARAÚ",
@@ -8067,10 +8067,10 @@
       {
         "numero": "0042142721",
         "numero_display": "42142721",
-        "duracao": "14:57",
-        "duracao_horas": 14.95,
+        "duracao": "15:14",
+        "duracao_horas": 15.233333333333333,
         "clientes_afetados": 1,
-        "conh": 14.9166,
+        "conh": 15.218,
         "municipio": "Itarema",
         "municipio_norm": "ITAREMA",
         "regional": "ACARAÚ",
@@ -8092,10 +8092,10 @@
       {
         "numero": "0042142901",
         "numero_display": "42142901",
-        "duracao": "14:29",
-        "duracao_horas": 14.483333333333333,
+        "duracao": "14:46",
+        "duracao_horas": 14.766666666666667,
         "clientes_afetados": 2,
-        "conh": 28.9004,
+        "conh": 29.5033,
         "municipio": "Cruz",
         "municipio_norm": "CRUZ",
         "regional": "ACARAÚ",
@@ -8117,10 +8117,10 @@
       {
         "numero": "0042143169",
         "numero_display": "42143169",
-        "duracao": "13:39",
-        "duracao_horas": 13.65,
+        "duracao": "13:55",
+        "duracao_horas": 13.916666666666666,
         "clientes_afetados": 1,
-        "conh": 13.615,
+        "conh": 13.9164,
         "municipio": "Acaraú",
         "municipio_norm": "ACARAU",
         "regional": "ACARAÚ",
@@ -8142,10 +8142,10 @@
       {
         "numero": "0042143973",
         "numero_display": "42143973",
-        "duracao": "08:18",
-        "duracao_horas": 8.3,
+        "duracao": "08:35",
+        "duracao_horas": 8.583333333333334,
         "clientes_afetados": 2,
-        "conh": 16.5598,
+        "conh": 17.1627,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8167,8 +8167,8 @@
       {
         "numero": "0042144073",
         "numero_display": "42144073",
-        "duracao": "07:03",
-        "duracao_horas": 7.05,
+        "duracao": "07:19",
+        "duracao_horas": 7.316666666666666,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "ITAPIPOCA",
@@ -8192,8 +8192,8 @@
       {
         "numero": "0042144211",
         "numero_display": "42144211",
-        "duracao": "04:13",
-        "duracao_horas": 4.216666666666667,
+        "duracao": "04:30",
+        "duracao_horas": 4.5,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "ITAPAJÉ",
@@ -8219,10 +8219,10 @@
       {
         "numero": "0042140365",
         "numero_display": "42140365",
-        "duracao": "18:52",
-        "duracao_horas": 18.866666666666667,
+        "duracao": "19:09",
+        "duracao_horas": 19.15,
         "clientes_afetados": 36,
-        "conh": 678.0247,
+        "conh": 688.8775,
         "municipio": "Acaraú",
         "municipio_norm": "ACARAU",
         "regional": "ACARAÚ",
@@ -8232,7 +8232,7 @@
         "polo": "ATLANTICO",
         "polo_classificacao_origem": "alimentador",
         "pendencia": "Não",
-        "status_execucao": "Deslocamento",
+        "status_execucao": "Em Execução",
         "lat": -3.19350052,
         "lon": -39.9957257,
         "coord_source": "Coordenada_Cliente",
@@ -8244,10 +8244,10 @@
       {
         "numero": "0042141017",
         "numero_display": "42141017",
-        "duracao": "18:00",
-        "duracao_horas": 18.0,
+        "duracao": "18:17",
+        "duracao_horas": 18.283333333333335,
         "clientes_afetados": 2,
-        "conh": 35.9364,
+        "conh": 36.5393,
         "municipio": "C.S. ACARAÚ",
         "municipio_norm": "C.S. ACARAU",
         "regional": "ACARAÚ",
@@ -8269,10 +8269,10 @@
       {
         "numero": "0042142901",
         "numero_display": "42142901",
-        "duracao": "14:29",
-        "duracao_horas": 14.483333333333333,
+        "duracao": "14:46",
+        "duracao_horas": 14.766666666666667,
         "clientes_afetados": 2,
-        "conh": 28.9004,
+        "conh": 29.5033,
         "municipio": "Cruz",
         "municipio_norm": "CRUZ",
         "regional": "ACARAÚ",
@@ -8294,10 +8294,10 @@
       {
         "numero": "0042143973",
         "numero_display": "42143973",
-        "duracao": "08:18",
-        "duracao_horas": 8.3,
+        "duracao": "08:35",
+        "duracao_horas": 8.583333333333334,
         "clientes_afetados": 2,
-        "conh": 16.5598,
+        "conh": 17.1627,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8317,27 +8317,27 @@
         "map_visible": true
       },
       {
-        "numero": "0042142463",
-        "numero_display": "42142463",
-        "duracao": "15:26",
-        "duracao_horas": 15.433333333333334,
-        "clientes_afetados": 1,
-        "conh": 15.4013,
-        "municipio": "Acaraú",
-        "municipio_norm": "ACARAU",
-        "regional": "ACARAÚ",
-        "equipe": "ACA-LN-16B",
+        "numero": "0042144375",
+        "numero_display": "42144375",
+        "duracao": "03:11",
+        "duracao_horas": 3.183333333333333,
+        "clientes_afetados": 5,
+        "conh": 15.894,
+        "municipio": "Itapipoca",
+        "municipio_norm": "ITAPIPOCA",
+        "regional": "ITAPIPOCA",
+        "equipe": "ITK-PD-03B",
         "avisos": 1,
-        "sucursal": "C.S. ACARAÚ",
+        "sucursal": "ITAPIPOCA",
         "polo": "ATLANTICO",
         "polo_classificacao_origem": "alimentador",
         "pendencia": "Não",
-        "status_execucao": "Despachado",
-        "lat": -3.0891775,
-        "lon": -40.0600816,
+        "status_execucao": "Deslocamento",
+        "lat": -3.13670155,
+        "lon": -39.49032171,
         "coord_source": "Coordenada_Cliente",
-        "endereco": "ST ALPARGATAS 02632",
-        "ponto_eletrico": "TNW3345",
+        "endereco": "PV MACEIO 00000",
+        "ponto_eletrico": "TUQ5495",
         "bairro": "",
         "map_visible": true
       }
@@ -8346,10 +8346,10 @@
       {
         "numero": "0042140365",
         "numero_display": "42140365",
-        "duracao": "18:52",
-        "duracao_horas": 18.866666666666667,
+        "duracao": "19:09",
+        "duracao_horas": 19.15,
         "clientes_afetados": 36,
-        "conh": 678.0247,
+        "conh": 688.8775,
         "municipio": "Acaraú",
         "municipio_norm": "ACARAU",
         "regional": "ACARAÚ",
@@ -8359,7 +8359,7 @@
         "polo": "ATLANTICO",
         "polo_classificacao_origem": "alimentador",
         "pendencia": "Não",
-        "status_execucao": "Deslocamento",
+        "status_execucao": "Em Execução",
         "lat": -3.19350052,
         "lon": -39.9957257,
         "coord_source": "Coordenada_Cliente",
@@ -8371,10 +8371,10 @@
       {
         "numero": "0042144375",
         "numero_display": "42144375",
-        "duracao": "02:54",
-        "duracao_horas": 2.9,
+        "duracao": "03:11",
+        "duracao_horas": 3.183333333333333,
         "clientes_afetados": 5,
-        "conh": 14.3867,
+        "conh": 15.894,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8384,7 +8384,7 @@
         "polo": "ATLANTICO",
         "polo_classificacao_origem": "alimentador",
         "pendencia": "Não",
-        "status_execucao": "Despachado",
+        "status_execucao": "Deslocamento",
         "lat": -3.13670155,
         "lon": -39.49032171,
         "coord_source": "Coordenada_Cliente",
@@ -8396,10 +8396,10 @@
       {
         "numero": "0042144847",
         "numero_display": "42144847",
-        "duracao": "01:20",
-        "duracao_horas": 1.3333333333333333,
+        "duracao": "01:37",
+        "duracao_horas": 1.6166666666666667,
         "clientes_afetados": 3,
-        "conh": 3.9068,
+        "conh": 4.811,
         "municipio": "Trairi",
         "municipio_norm": "TRAIRI",
         "regional": "TRAIRÍ",
@@ -8421,10 +8421,10 @@
       {
         "numero": "0042143973",
         "numero_display": "42143973",
-        "duracao": "08:18",
-        "duracao_horas": 8.3,
+        "duracao": "08:35",
+        "duracao_horas": 8.583333333333334,
         "clientes_afetados": 2,
-        "conh": 16.5598,
+        "conh": 17.1627,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8446,10 +8446,10 @@
       {
         "numero": "0042142901",
         "numero_display": "42142901",
-        "duracao": "14:29",
-        "duracao_horas": 14.483333333333333,
+        "duracao": "14:46",
+        "duracao_horas": 14.766666666666667,
         "clientes_afetados": 2,
-        "conh": 28.9004,
+        "conh": 29.5033,
         "municipio": "Cruz",
         "municipio_norm": "CRUZ",
         "regional": "ACARAÚ",
@@ -8478,7 +8478,7 @@
         "municipio": "Acaraú",
         "incidencias": 2,
         "clientes_afetados": 37,
-        "chi": 680.45
+        "chi": 691.61
       },
       {
         "equipe": "IPK-CO-11B",
@@ -8486,7 +8486,7 @@
         "municipio": "Acaraú",
         "incidencias": 2,
         "clientes_afetados": 2,
-        "chi": 28.62
+        "chi": 29.22
       },
       {
         "equipe": "ITK-ML-32B",
@@ -8494,7 +8494,7 @@
         "municipio": "Itapipoca",
         "incidencias": 2,
         "clientes_afetados": 2,
-        "chi": 6.08
+        "chi": 6.68
       },
       {
         "equipe": "ITK-ML-31B",
@@ -8505,12 +8505,20 @@
         "chi": 0.0
       },
       {
+        "equipe": "ACU-TR-03B",
+        "regional": "ACARAÚ",
+        "municipio": "Itarema",
+        "incidencias": 2,
+        "clientes_afetados": 0,
+        "chi": 0.0
+      },
+      {
         "equipe": "ITK-PD-03B",
         "regional": "ITAPIPOCA",
         "municipio": "Itapipoca",
         "incidencias": 1,
         "clientes_afetados": 5,
-        "chi": 14.39
+        "chi": 15.89
       },
       {
         "equipe": "IPT-TR-02B",
@@ -8518,7 +8526,7 @@
         "municipio": "Trairi",
         "incidencias": 1,
         "clientes_afetados": 3,
-        "chi": 3.91
+        "chi": 4.81
       },
       {
         "equipe": "ACU-ML-30B",
@@ -8526,7 +8534,7 @@
         "municipio": "C.S. ACARAÚ",
         "incidencias": 1,
         "clientes_afetados": 2,
-        "chi": 35.94
+        "chi": 36.54
       },
       {
         "equipe": "ACA-RD-02B",
@@ -8534,7 +8542,7 @@
         "municipio": "Cruz",
         "incidencias": 1,
         "clientes_afetados": 2,
-        "chi": 28.9
+        "chi": 29.5
       },
       {
         "equipe": "IPK-CO-14B",
@@ -8542,7 +8550,7 @@
         "municipio": "Itapipoca",
         "incidencias": 1,
         "clientes_afetados": 2,
-        "chi": 16.56
+        "chi": 17.16
       },
       {
         "equipe": "ACA-LN-16B",
@@ -8550,7 +8558,7 @@
         "municipio": "Acaraú",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 15.4
+        "chi": 15.7
       },
       {
         "equipe": "ACA-RD-21B",
@@ -8558,7 +8566,7 @@
         "municipio": "Itarema",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 14.92
+        "chi": 15.22
       },
       {
         "equipe": "IPK-RD-01B",
@@ -8566,15 +8574,7 @@
         "municipio": "Uruburetama",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 3.4
-      },
-      {
-        "equipe": "TRR-PD-05B",
-        "regional": "TRAIRÍ",
-        "municipio": "Paracuru",
-        "incidencias": 1,
-        "clientes_afetados": 1,
-        "chi": 2.0
+        "chi": 3.7
       },
       {
         "equipe": "ACU-ML-31B",
@@ -8582,7 +8582,7 @@
         "municipio": "Marco",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.39
+        "chi": 1.69
       },
       {
         "equipe": "IPT-TR-31B",
@@ -8590,7 +8590,7 @@
         "municipio": "Paraipaba",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.29
+        "chi": 1.59
       },
       {
         "equipe": "ITJ-SP-01B",
@@ -8598,7 +8598,7 @@
         "municipio": "Itapagé",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.79
+        "chi": 1.09
       },
       {
         "equipe": "ITK-PD-22B",
@@ -8606,7 +8606,7 @@
         "municipio": "Itapipoca",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.56
+        "chi": 0.86
       },
       {
         "equipe": "IPT-TR-23B",
@@ -8614,7 +8614,7 @@
         "municipio": "ITAPAJÉ",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.36
+        "chi": 0.66
       },
       {
         "equipe": "ACU-PD-21B",
@@ -8622,7 +8622,15 @@
         "municipio": "Acaraú",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.05
+        "chi": 0.32
+      },
+      {
+        "equipe": "ITE-TR-03B",
+        "regional": "ITAPAJÉ",
+        "municipio": "Irauçuba",
+        "incidencias": 1,
+        "clientes_afetados": 1,
+        "chi": 0.18
       },
       {
         "equipe": "ITJ-SG-07B",
@@ -8639,29 +8647,21 @@
         "incidencias": 1,
         "clientes_afetados": 0,
         "chi": 0.0
-      },
-      {
-        "equipe": "ACU-TR-03B",
-        "regional": "ACARAÚ",
-        "municipio": "Acaraú",
-        "incidencias": 1,
-        "clientes_afetados": 0,
-        "chi": 0.0
       }
     ],
     "totals": {
       "equipes_ativas": 22,
-      "incidencias_com_equipe": 26
+      "incidencias_com_equipe": 27
     }
   },
   "rows": [
     {
       "numero": "0042140365",
       "numero_display": "42140365",
-      "duracao": "18:52",
-      "duracao_horas": 18.866666666666667,
+      "duracao": "19:09",
+      "duracao_horas": 19.15,
       "clientes_afetados": 36,
-      "conh": 678.0247,
+      "conh": 688.8775,
       "municipio": "Acaraú",
       "municipio_norm": "ACARAU",
       "regional": "ACARAÚ",
@@ -8671,7 +8671,7 @@
       "polo": "ATLANTICO",
       "polo_classificacao_origem": "alimentador",
       "pendencia": "Não",
-      "status_execucao": "Deslocamento",
+      "status_execucao": "Em Execução",
       "lat": -3.19350052,
       "lon": -39.9957257,
       "coord_source": "Coordenada_Cliente",
@@ -8683,10 +8683,10 @@
     {
       "numero": "0042141017",
       "numero_display": "42141017",
-      "duracao": "18:00",
-      "duracao_horas": 18.0,
+      "duracao": "18:17",
+      "duracao_horas": 18.283333333333335,
       "clientes_afetados": 2,
-      "conh": 35.9364,
+      "conh": 36.5393,
       "municipio": "C.S. ACARAÚ",
       "municipio_norm": "C.S. ACARAU",
       "regional": "ACARAÚ",
@@ -8708,10 +8708,10 @@
     {
       "numero": "0042142463",
       "numero_display": "42142463",
-      "duracao": "15:26",
-      "duracao_horas": 15.433333333333334,
+      "duracao": "15:43",
+      "duracao_horas": 15.716666666666667,
       "clientes_afetados": 1,
-      "conh": 15.4013,
+      "conh": 15.7028,
       "municipio": "Acaraú",
       "municipio_norm": "ACARAU",
       "regional": "ACARAÚ",
@@ -8733,10 +8733,10 @@
     {
       "numero": "0042142679",
       "numero_display": "42142679",
-      "duracao": "15:02",
-      "duracao_horas": 15.033333333333333,
+      "duracao": "15:19",
+      "duracao_horas": 15.316666666666666,
       "clientes_afetados": 1,
-      "conh": 15.003,
+      "conh": 15.3044,
       "municipio": "Acaraú",
       "municipio_norm": "ACARAU",
       "regional": "ACARAÚ",
@@ -8758,10 +8758,10 @@
     {
       "numero": "0042142721",
       "numero_display": "42142721",
-      "duracao": "14:57",
-      "duracao_horas": 14.95,
+      "duracao": "15:14",
+      "duracao_horas": 15.233333333333333,
       "clientes_afetados": 1,
-      "conh": 14.9166,
+      "conh": 15.218,
       "municipio": "Itarema",
       "municipio_norm": "ITAREMA",
       "regional": "ACARAÚ",
@@ -8783,10 +8783,10 @@
     {
       "numero": "0042142901",
       "numero_display": "42142901",
-      "duracao": "14:29",
-      "duracao_horas": 14.483333333333333,
+      "duracao": "14:46",
+      "duracao_horas": 14.766666666666667,
       "clientes_afetados": 2,
-      "conh": 28.9004,
+      "conh": 29.5033,
       "municipio": "Cruz",
       "municipio_norm": "CRUZ",
       "regional": "ACARAÚ",
@@ -8808,10 +8808,10 @@
     {
       "numero": "0042143169",
       "numero_display": "42143169",
-      "duracao": "13:39",
-      "duracao_horas": 13.65,
+      "duracao": "13:55",
+      "duracao_horas": 13.916666666666666,
       "clientes_afetados": 1,
-      "conh": 13.615,
+      "conh": 13.9164,
       "municipio": "Acaraú",
       "municipio_norm": "ACARAU",
       "regional": "ACARAÚ",
@@ -8833,10 +8833,10 @@
     {
       "numero": "0042143973",
       "numero_display": "42143973",
-      "duracao": "08:18",
-      "duracao_horas": 8.3,
+      "duracao": "08:35",
+      "duracao_horas": 8.583333333333334,
       "clientes_afetados": 2,
-      "conh": 16.5598,
+      "conh": 17.1627,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -8858,8 +8858,8 @@
     {
       "numero": "0042144073",
       "numero_display": "42144073",
-      "duracao": "07:03",
-      "duracao_horas": 7.05,
+      "duracao": "07:19",
+      "duracao_horas": 7.316666666666666,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "ITAPIPOCA",
@@ -8883,8 +8883,8 @@
     {
       "numero": "0042144211",
       "numero_display": "42144211",
-      "duracao": "04:13",
-      "duracao_horas": 4.216666666666667,
+      "duracao": "04:30",
+      "duracao_horas": 4.5,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "ITAPAJÉ",
@@ -8908,10 +8908,10 @@
     {
       "numero": "0042144297",
       "numero_display": "42144297",
-      "duracao": "03:25",
-      "duracao_horas": 3.4166666666666665,
+      "duracao": "03:42",
+      "duracao_horas": 3.7,
       "clientes_afetados": 1,
-      "conh": 3.3952,
+      "conh": 3.6967,
       "municipio": "Uruburetama",
       "municipio_norm": "URUBURETAMA",
       "regional": "ITAPIPOCA",
@@ -8933,10 +8933,10 @@
     {
       "numero": "0042144337",
       "numero_display": "42144337",
-      "duracao": "03:04",
-      "duracao_horas": 3.066666666666667,
+      "duracao": "03:21",
+      "duracao_horas": 3.35,
       "clientes_afetados": 1,
-      "conh": 3.0445,
+      "conh": 3.346,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -8958,10 +8958,10 @@
     {
       "numero": "0042144341",
       "numero_display": "42144341",
-      "duracao": "03:04",
-      "duracao_horas": 3.066666666666667,
+      "duracao": "03:20",
+      "duracao_horas": 3.3333333333333335,
       "clientes_afetados": 1,
-      "conh": 3.0311,
+      "conh": 3.3326,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -8983,10 +8983,10 @@
     {
       "numero": "0042144375",
       "numero_display": "42144375",
-      "duracao": "02:54",
-      "duracao_horas": 2.9,
+      "duracao": "03:11",
+      "duracao_horas": 3.183333333333333,
       "clientes_afetados": 5,
-      "conh": 14.3867,
+      "conh": 15.894,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -8996,7 +8996,7 @@
       "polo": "ATLANTICO",
       "polo_classificacao_origem": "alimentador",
       "pendencia": "Não",
-      "status_execucao": "Despachado",
+      "status_execucao": "Deslocamento",
       "lat": -3.13670155,
       "lon": -39.49032171,
       "coord_source": "Coordenada_Cliente",
@@ -9008,10 +9008,10 @@
     {
       "numero": "0042144523",
       "numero_display": "42144523",
-      "duracao": "02:27",
-      "duracao_horas": 2.45,
+      "duracao": "02:44",
+      "duracao_horas": 2.7333333333333334,
       "clientes_afetados": 1,
-      "conh": 2.4285,
+      "conh": 2.73,
       "municipio": "Acaraú",
       "municipio_norm": "ACARAU",
       "regional": "ACARAÚ",
@@ -9031,35 +9031,10 @@
       "map_visible": true
     },
     {
-      "numero": "0042144621",
-      "numero_display": "42144621",
-      "duracao": "02:01",
-      "duracao_horas": 2.0166666666666666,
-      "clientes_afetados": 1,
-      "conh": 1.9973,
-      "municipio": "Paracuru",
-      "municipio_norm": "PARACURU",
-      "regional": "TRAIRÍ",
-      "equipe": "TRR-PD-05B",
-      "avisos": 1,
-      "sucursal": "ITAPAJÉ",
-      "polo": "ATLANTICO",
-      "polo_classificacao_origem": "alimentador",
-      "pendencia": "Não",
-      "status_execucao": "Despachado",
-      "lat": -3.41008183,
-      "lon": -39.02351474,
-      "coord_source": "Coordenada_Cliente",
-      "endereco": "RU JOSE VIEIRA SOBRINHO 00040",
-      "ponto_eletrico": "TQG4140",
-      "bairro": "",
-      "map_visible": true
-    },
-    {
       "numero": "0042144651",
       "numero_display": "42144651",
-      "duracao": "01:52",
-      "duracao_horas": 1.8666666666666667,
+      "duracao": "02:08",
+      "duracao_horas": 2.1333333333333333,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "ITAPIPOCA",
@@ -9083,10 +9058,10 @@
     {
       "numero": "0042144811",
       "numero_display": "42144811",
-      "duracao": "01:25",
-      "duracao_horas": 1.4166666666666667,
+      "duracao": "01:42",
+      "duracao_horas": 1.7,
       "clientes_afetados": 1,
-      "conh": 1.391,
+      "conh": 1.6924,
       "municipio": "Marco",
       "municipio_norm": "MARCO",
       "regional": "ACARAÚ",
@@ -9108,8 +9083,8 @@
     {
       "numero": "0042144837",
       "numero_display": "42144837",
-      "duracao": "01:21",
-      "duracao_horas": 1.35,
+      "duracao": "01:38",
+      "duracao_horas": 1.6333333333333333,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "ITAPAJÉ",
@@ -9133,10 +9108,10 @@
     {
       "numero": "0042144847",
       "numero_display": "42144847",
-      "duracao": "01:20",
-      "duracao_horas": 1.3333333333333333,
+      "duracao": "01:37",
+      "duracao_horas": 1.6166666666666667,
       "clientes_afetados": 3,
-      "conh": 3.9068,
+      "conh": 4.811,
       "municipio": "Trairi",
       "municipio_norm": "TRAIRI",
       "regional": "TRAIRÍ",
@@ -9158,10 +9133,10 @@
     {
       "numero": "0042144855",
       "numero_display": "42144855",
-      "duracao": "01:19",
-      "duracao_horas": 1.3166666666666667,
+      "duracao": "01:36",
+      "duracao_horas": 1.6,
       "clientes_afetados": 1,
-      "conh": 1.2895,
+      "conh": 1.5909,
       "municipio": "Paraipaba",
       "municipio_norm": "PARAIPABA",
       "regional": "TRAIRÍ",
@@ -9183,20 +9158,20 @@
     {
       "numero": "0042144897",
       "numero_display": "42144897",
-      "duracao": "01:13",
-      "duracao_horas": 1.2166666666666668,
+      "duracao": "01:29",
+      "duracao_horas": 1.4833333333333334,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "Itarema",
       "municipio_norm": "ITAREMA",
       "regional": "ACARAÚ",
-      "equipe": "",
-      "avisos": 1,
+      "equipe": "ACU-TR-03B",
+      "avisos": 2,
       "sucursal": "C.S. ACARAÚ",
       "polo": "ATLANTICO",
       "polo_classificacao_origem": "alimentador",
       "pendencia": "Não",
-      "status_execucao": "Aguardando Despacho",
+      "status_execucao": "Despachado",
       "lat": -2.9263781,
       "lon": -39.91506267,
       "coord_source": "Coordenada_Cliente",
@@ -9208,8 +9183,8 @@
     {
       "numero": "0042144921",
       "numero_display": "42144921",
-      "duracao": "01:10",
-      "duracao_horas": 1.1666666666666667,
+      "duracao": "01:26",
+      "duracao_horas": 1.4333333333333333,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "ITAPIPOCA",
@@ -9233,8 +9208,8 @@
     {
       "numero": "0042145021",
       "numero_display": "42145021",
-      "duracao": "00:55",
-      "duracao_horas": 0.9166666666666666,
+      "duracao": "01:12",
+      "duracao_horas": 1.2,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "Acaraú",
@@ -9258,10 +9233,10 @@
     {
       "numero": "0042145101",
       "numero_display": "42145101",
-      "duracao": "00:49",
-      "duracao_horas": 0.8166666666666667,
+      "duracao": "01:06",
+      "duracao_horas": 1.1,
       "clientes_afetados": 1,
-      "conh": 0.7865,
+      "conh": 1.0879,
       "municipio": "Itapagé",
       "municipio_norm": "ITAPAGE",
       "regional": "ITAPAJÉ",
@@ -9283,10 +9258,10 @@
     {
       "numero": "0042145223",
       "numero_display": "42145223",
-      "duracao": "00:35",
-      "duracao_horas": 0.5833333333333334,
+      "duracao": "00:52",
+      "duracao_horas": 0.8666666666666667,
       "clientes_afetados": 1,
-      "conh": 0.5558,
+      "conh": 0.8573,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -9308,10 +9283,10 @@
     {
       "numero": "0042145307",
       "numero_display": "42145307",
-      "duracao": "00:23",
-      "duracao_horas": 0.38333333333333336,
+      "duracao": "00:40",
+      "duracao_horas": 0.6666666666666666,
       "clientes_afetados": 1,
-      "conh": 0.3554,
+      "conh": 0.6569,
       "municipio": "ITAPAJÉ",
       "municipio_norm": "ITAPAJE",
       "regional": "TRAIRÍ",
@@ -9333,10 +9308,10 @@
     {
       "numero": "0042145443",
       "numero_display": "42145443",
-      "duracao": "00:03",
-      "duracao_horas": 0.05,
+      "duracao": "00:19",
+      "duracao_horas": 0.31666666666666665,
       "clientes_afetados": 1,
-      "conh": 0.051,
+      "conh": 0.3189,
       "municipio": "Acaraú",
       "municipio_norm": "ACARAU",
       "regional": "ACARAÚ",
@@ -9354,14 +9329,39 @@
       "ponto_eletrico": "TOE4819",
       "bairro": "",
       "map_visible": true
+    },
+    {
+      "numero": "0042145527",
+      "numero_display": "42145527",
+      "duracao": "00:11",
+      "duracao_horas": 0.18333333333333332,
+      "clientes_afetados": 1,
+      "conh": 0.1835,
+      "municipio": "Irauçuba",
+      "municipio_norm": "IRAUCUBA",
+      "regional": "ITAPAJÉ",
+      "equipe": "ITE-TR-03B",
+      "avisos": 1,
+      "sucursal": "ITAPAJÉ",
+      "polo": "ATLANTICO",
+      "polo_classificacao_origem": "alimentador",
+      "pendencia": "Não",
+      "status_execucao": "Despachado",
+      "lat": -3.84781544,
+      "lon": -39.79754566,
+      "coord_source": "Coordenada_Cliente",
+      "endereco": "PV MANDACARU LC 00000 00",
+      "ponto_eletrico": "TKH4050",
+      "bairro": "",
+      "map_visible": true
     }
   ],
   "metadata": {
-    "raw_total": 314,
-    "legacy_total": 309,
+    "raw_total": 313,
+    "legacy_total": 311,
     "territory_total": 28,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 286,
+    "dropped_unmapped": 285,
     "mapped_by_alimentador": 25,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 3,
