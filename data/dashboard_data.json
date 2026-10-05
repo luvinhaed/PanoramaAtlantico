@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - ATLANTICO",
-    "updated_at_iso": "2026-10-05T05:06:01",
-    "updated_at_display": "05/10/2026 05:06:01",
-    "data_updated_at_iso": "2026-10-05T05:06:01",
-    "data_updated_at_display": "05/10/2026 05:06:01",
+    "updated_at_iso": "2026-10-05T05:22:51",
+    "updated_at_display": "05/10/2026 05:22:51",
+    "data_updated_at_iso": "2026-10-05T05:22:51",
+    "data_updated_at_display": "05/10/2026 05:22:51",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -7967,10 +7967,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "05:26",
-        "duracao_horas": 5.433333333333334,
+        "duracao": "05:43",
+        "duracao_horas": 5.716666666666667,
         "clientes_afetados": 63,
-        "conh": 340.3685,
+        "conh": 359.4452,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -7992,10 +7992,10 @@
       {
         "numero": "0042155277",
         "numero_display": "42155277",
-        "duracao": "01:37",
-        "duracao_horas": 1.6166666666666667,
+        "duracao": "01:54",
+        "duracao_horas": 1.9,
         "clientes_afetados": 1,
-        "conh": 1.5821,
+        "conh": 1.8849,
         "municipio": "C.S. ACARAÚ",
         "municipio_norm": "C.S. ACARAU",
         "regional": "ACARAÚ",
@@ -8019,10 +8019,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "05:26",
-        "duracao_horas": 5.433333333333334,
+        "duracao": "05:43",
+        "duracao_horas": 5.716666666666667,
         "clientes_afetados": 63,
-        "conh": 340.3685,
+        "conh": 359.4452,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8044,10 +8044,10 @@
       {
         "numero": "0042155277",
         "numero_display": "42155277",
-        "duracao": "01:37",
-        "duracao_horas": 1.6166666666666667,
+        "duracao": "01:54",
+        "duracao_horas": 1.9,
         "clientes_afetados": 1,
-        "conh": 1.5821,
+        "conh": 1.8849,
         "municipio": "C.S. ACARAÚ",
         "municipio_norm": "C.S. ACARAU",
         "regional": "ACARAÚ",
@@ -8071,10 +8071,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "05:26",
-        "duracao_horas": 5.433333333333334,
+        "duracao": "05:43",
+        "duracao_horas": 5.716666666666667,
         "clientes_afetados": 63,
-        "conh": 340.3685,
+        "conh": 359.4452,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8096,10 +8096,10 @@
       {
         "numero": "0042155277",
         "numero_display": "42155277",
-        "duracao": "01:37",
-        "duracao_horas": 1.6166666666666667,
+        "duracao": "01:54",
+        "duracao_horas": 1.9,
         "clientes_afetados": 1,
-        "conh": 1.5821,
+        "conh": 1.8849,
         "municipio": "C.S. ACARAÚ",
         "municipio_norm": "C.S. ACARAU",
         "regional": "ACARAÚ",
@@ -8128,7 +8128,7 @@
         "municipio": "Itapipoca",
         "incidencias": 1,
         "clientes_afetados": 63,
-        "chi": 340.37
+        "chi": 359.45
       },
       {
         "equipe": "ACU-TR-02D",
@@ -8136,7 +8136,7 @@
         "municipio": "C.S. ACARAÚ",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.58
+        "chi": 1.88
       }
     ],
     "totals": {
@@ -8148,10 +8148,10 @@
     {
       "numero": "0042154965",
       "numero_display": "42154965",
-      "duracao": "05:26",
-      "duracao_horas": 5.433333333333334,
+      "duracao": "05:43",
+      "duracao_horas": 5.716666666666667,
       "clientes_afetados": 63,
-      "conh": 340.3685,
+      "conh": 359.4452,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -8173,10 +8173,10 @@
     {
       "numero": "0042155277",
       "numero_display": "42155277",
-      "duracao": "01:37",
-      "duracao_horas": 1.6166666666666667,
+      "duracao": "01:54",
+      "duracao_horas": 1.9,
       "clientes_afetados": 1,
-      "conh": 1.5821,
+      "conh": 1.8849,
       "municipio": "C.S. ACARAÚ",
       "municipio_norm": "C.S. ACARAU",
       "regional": "ACARAÚ",
@@ -8197,11 +8197,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 132,
-    "legacy_total": 131,
+    "raw_total": 128,
+    "legacy_total": 127,
     "territory_total": 2,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 130,
+    "dropped_unmapped": 126,
     "mapped_by_alimentador": 2,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
