@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - ATLANTICO",
-    "updated_at_iso": "2026-10-05T03:08:07",
-    "updated_at_display": "05/10/2026 03:08:07",
-    "data_updated_at_iso": "2026-10-05T03:08:07",
-    "data_updated_at_display": "05/10/2026 03:08:07",
+    "updated_at_iso": "2026-10-05T03:24:57",
+    "updated_at_display": "05/10/2026 03:24:57",
+    "data_updated_at_iso": "2026-10-05T03:24:57",
+    "data_updated_at_display": "05/10/2026 03:24:57",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -7967,8 +7967,8 @@
       {
         "numero": "0042154841",
         "numero_display": "42154841",
-        "duracao": "04:17",
-        "duracao_horas": 4.283333333333333,
+        "duracao": "04:34",
+        "duracao_horas": 4.566666666666666,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "Jijoca de Jericoacoara",
@@ -7992,10 +7992,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "03:28",
-        "duracao_horas": 3.466666666666667,
+        "duracao": "03:45",
+        "duracao_horas": 3.75,
         "clientes_afetados": 1,
-        "conh": 3.4528,
+        "conh": 3.7515,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8019,10 +8019,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "03:28",
-        "duracao_horas": 3.466666666666667,
+        "duracao": "03:45",
+        "duracao_horas": 3.75,
         "clientes_afetados": 1,
-        "conh": 3.4528,
+        "conh": 3.7515,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8046,10 +8046,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "03:28",
-        "duracao_horas": 3.466666666666667,
+        "duracao": "03:45",
+        "duracao_horas": 3.75,
         "clientes_afetados": 1,
-        "conh": 3.4528,
+        "conh": 3.7515,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8078,7 +8078,7 @@
         "municipio": "Itapipoca",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 3.45
+        "chi": 3.75
       },
       {
         "equipe": "ACU-SG-01D",
@@ -8098,8 +8098,8 @@
     {
       "numero": "0042154841",
       "numero_display": "42154841",
-      "duracao": "04:17",
-      "duracao_horas": 4.283333333333333,
+      "duracao": "04:34",
+      "duracao_horas": 4.566666666666666,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "Jijoca de Jericoacoara",
@@ -8123,10 +8123,10 @@
     {
       "numero": "0042154965",
       "numero_display": "42154965",
-      "duracao": "03:28",
-      "duracao_horas": 3.466666666666667,
+      "duracao": "03:45",
+      "duracao_horas": 3.75,
       "clientes_afetados": 1,
-      "conh": 3.4528,
+      "conh": 3.7515,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
