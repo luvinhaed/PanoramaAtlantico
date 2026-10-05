@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - ATLANTICO",
-    "updated_at_iso": "2026-10-05T01:27:08",
-    "updated_at_display": "05/10/2026 01:27:08",
-    "data_updated_at_iso": "2026-10-05T01:27:08",
-    "data_updated_at_display": "05/10/2026 01:27:08",
+    "updated_at_iso": "2026-10-05T01:44:00",
+    "updated_at_display": "05/10/2026 01:44:00",
+    "data_updated_at_iso": "2026-10-05T01:44:00",
+    "data_updated_at_display": "05/10/2026 01:44:00",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -28,13 +28,13 @@
       {
         "regional": "ITAPIPOCA",
         "clientes_afetados": 1,
-        "incidencias_ativas": 2,
+        "incidencias_ativas": 1,
         "nao_despachadas": 0,
-        "qtde_equipes": 2,
+        "qtde_equipes": 1,
         "qtde_equipes_recomendadas": 1,
         "aporte_recomendado": 0,
-        "mais_de_um_aviso": 1,
-        "dur_lt_8": 2,
+        "mais_de_um_aviso": 0,
+        "dur_lt_8": 1,
         "dur_8_16": 0,
         "dur_16_24": 0,
         "dur_gt_24": 0,
@@ -73,13 +73,13 @@
       {
         "regional": "ATLÂNTICO",
         "clientes_afetados": 2,
-        "incidencias_ativas": 4,
+        "incidencias_ativas": 3,
         "nao_despachadas": 0,
-        "qtde_equipes": 4,
+        "qtde_equipes": 3,
         "qtde_equipes_recomendadas": 1,
         "aporte_recomendado": 0,
-        "mais_de_um_aviso": 1,
-        "dur_lt_8": 4,
+        "mais_de_um_aviso": 0,
+        "dur_lt_8": 3,
         "dur_8_16": 0,
         "dur_16_24": 0,
         "dur_gt_24": 0,
@@ -7816,9 +7816,9 @@
       {
         "municipio": "Amontada",
         "regional": "ITAPIPOCA",
-        "incidencias": 1,
-        "equipes": 1,
-        "tem_equipe_ativa": true
+        "incidencias": 0,
+        "equipes": 0,
+        "tem_equipe_ativa": false
       },
       {
         "municipio": "Apuiarés",
@@ -7965,35 +7965,10 @@
   "rankings": {
     "duracao": [
       {
-        "numero": "0042154297",
-        "numero_display": "42154297",
-        "duracao": "05:25",
-        "duracao_horas": 5.416666666666667,
-        "clientes_afetados": 0,
-        "conh": 0.0,
-        "municipio": "Amontada",
-        "municipio_norm": "AMONTADA",
-        "regional": "ITAPIPOCA",
-        "equipe": "ITK-TR-04D",
-        "avisos": 3,
-        "sucursal": "ITAPIPOCA",
-        "polo": "ATLANTICO",
-        "polo_classificacao_origem": "alimentador",
-        "pendencia": "Não",
-        "status_execucao": "Despachado",
-        "lat": -3.09340776,
-        "lon": -39.72043088,
-        "coord_source": "Coordenada_Cliente",
-        "endereco": "PV CORREGO DO PAULO 00000",
-        "ponto_eletrico": "TUX5840",
-        "bairro": "",
-        "map_visible": true
-      },
-      {
         "numero": "0042154841",
         "numero_display": "42154841",
-        "duracao": "02:36",
-        "duracao_horas": 2.6,
+        "duracao": "02:53",
+        "duracao_horas": 2.8833333333333333,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "Jijoca de Jericoacoara",
@@ -8017,10 +7992,10 @@
       {
         "numero": "0042154959",
         "numero_display": "42154959",
-        "duracao": "01:50",
-        "duracao_horas": 1.8333333333333335,
+        "duracao": "02:07",
+        "duracao_horas": 2.1166666666666667,
         "clientes_afetados": 1,
-        "conh": 1.7933,
+        "conh": 2.0951,
         "municipio": "Cruz",
         "municipio_norm": "CRUZ",
         "regional": "ACARAÚ",
@@ -8042,10 +8017,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "01:47",
-        "duracao_horas": 1.7833333333333332,
+        "duracao": "02:04",
+        "duracao_horas": 2.066666666666667,
         "clientes_afetados": 1,
-        "conh": 1.7536,
+        "conh": 2.0554,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8069,10 +8044,10 @@
       {
         "numero": "0042154959",
         "numero_display": "42154959",
-        "duracao": "01:50",
-        "duracao_horas": 1.8333333333333335,
+        "duracao": "02:07",
+        "duracao_horas": 2.1166666666666667,
         "clientes_afetados": 1,
-        "conh": 1.7933,
+        "conh": 2.0951,
         "municipio": "Cruz",
         "municipio_norm": "CRUZ",
         "regional": "ACARAÚ",
@@ -8094,10 +8069,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "01:47",
-        "duracao_horas": 1.7833333333333332,
+        "duracao": "02:04",
+        "duracao_horas": 2.066666666666667,
         "clientes_afetados": 1,
-        "conh": 1.7536,
+        "conh": 2.0554,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8121,10 +8096,10 @@
       {
         "numero": "0042154965",
         "numero_display": "42154965",
-        "duracao": "01:47",
-        "duracao_horas": 1.7833333333333332,
+        "duracao": "02:04",
+        "duracao_horas": 2.066666666666667,
         "clientes_afetados": 1,
-        "conh": 1.7536,
+        "conh": 2.0554,
         "municipio": "Itapipoca",
         "municipio_norm": "ITAPIPOCA",
         "regional": "ITAPIPOCA",
@@ -8146,10 +8121,10 @@
       {
         "numero": "0042154959",
         "numero_display": "42154959",
-        "duracao": "01:50",
-        "duracao_horas": 1.8333333333333335,
+        "duracao": "02:07",
+        "duracao_horas": 2.1166666666666667,
         "clientes_afetados": 1,
-        "conh": 1.7933,
+        "conh": 2.0951,
         "municipio": "Cruz",
         "municipio_norm": "CRUZ",
         "regional": "ACARAÚ",
@@ -8178,7 +8153,7 @@
         "municipio": "Cruz",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.79
+        "chi": 2.1
       },
       {
         "equipe": "IPK-RD-01C",
@@ -8186,15 +8161,7 @@
         "municipio": "Itapipoca",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.75
-      },
-      {
-        "equipe": "ITK-TR-04D",
-        "regional": "ITAPIPOCA",
-        "municipio": "Amontada",
-        "incidencias": 1,
-        "clientes_afetados": 0,
-        "chi": 0.0
+        "chi": 2.06
       },
       {
         "equipe": "ACU-SG-01D",
@@ -8206,41 +8173,16 @@
       }
     ],
     "totals": {
-      "equipes_ativas": 4,
-      "incidencias_com_equipe": 4
+      "equipes_ativas": 3,
+      "incidencias_com_equipe": 3
     }
   },
   "rows": [
     {
-      "numero": "0042154297",
-      "numero_display": "42154297",
-      "duracao": "05:25",
-      "duracao_horas": 5.416666666666667,
-      "clientes_afetados": 0,
-      "conh": 0.0,
-      "municipio": "Amontada",
-      "municipio_norm": "AMONTADA",
-      "regional": "ITAPIPOCA",
-      "equipe": "ITK-TR-04D",
-      "avisos": 3,
-      "sucursal": "ITAPIPOCA",
-      "polo": "ATLANTICO",
-      "polo_classificacao_origem": "alimentador",
-      "pendencia": "Não",
-      "status_execucao": "Despachado",
-      "lat": -3.09340776,
-      "lon": -39.72043088,
-      "coord_source": "Coordenada_Cliente",
-      "endereco": "PV CORREGO DO PAULO 00000",
-      "ponto_eletrico": "TUX5840",
-      "bairro": "",
-      "map_visible": true
-    },
-    {
       "numero": "0042154841",
       "numero_display": "42154841",
-      "duracao": "02:36",
-      "duracao_horas": 2.6,
+      "duracao": "02:53",
+      "duracao_horas": 2.8833333333333333,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "Jijoca de Jericoacoara",
@@ -8264,10 +8206,10 @@
     {
       "numero": "0042154959",
       "numero_display": "42154959",
-      "duracao": "01:50",
-      "duracao_horas": 1.8333333333333335,
+      "duracao": "02:07",
+      "duracao_horas": 2.1166666666666667,
       "clientes_afetados": 1,
-      "conh": 1.7933,
+      "conh": 2.0951,
       "municipio": "Cruz",
       "municipio_norm": "CRUZ",
       "regional": "ACARAÚ",
@@ -8289,10 +8231,10 @@
     {
       "numero": "0042154965",
       "numero_display": "42154965",
-      "duracao": "01:47",
-      "duracao_horas": 1.7833333333333332,
+      "duracao": "02:04",
+      "duracao_horas": 2.066666666666667,
       "clientes_afetados": 1,
-      "conh": 1.7536,
+      "conh": 2.0554,
       "municipio": "Itapipoca",
       "municipio_norm": "ITAPIPOCA",
       "regional": "ITAPIPOCA",
@@ -8313,15 +8255,15 @@
     }
   ],
   "metadata": {
-    "raw_total": 167,
-    "legacy_total": 167,
-    "territory_total": 4,
+    "raw_total": 162,
+    "legacy_total": 164,
+    "territory_total": 3,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 163,
-    "mapped_by_alimentador": 4,
+    "dropped_unmapped": 159,
+    "mapped_by_alimentador": 3,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
-    "mapped_on_map": 4,
+    "mapped_on_map": 3,
     "mapped_by_sucursal_fallback": 0
   }
 }
